@@ -1,0 +1,51 @@
+ROLL NUMBER 1: 2015115064
+
+NAME                 : AKALYA B
+
+ROLL NUMBER 2: 2015115093
+
+NAME                 : NITHYAPRIYA C
+
+ROLL NUMBER 3: 2015115106
+
+NAME                 : SARANYA J
+
+PROJECT TITLE    : VOICE RECOGNITION IN LINUX ENVIRONMENT
+
+DESCRIPTION:
+
+	The main objective of our project is to recognize the voice of the system's owner and execute the commands given by them in Linux environment. It converts the MP3(voice) of the owner into string and searches the string in the saved library. When the match is found, it executes the given command. Our project mainly focuses on the Linux environment which is unlike windows but uses commands more.After four months,we will be able control Linux by voice command of the owner.
+
+LANGUAGE USED:
+
+	Python 	
+
+REFERENCE:
+
+1.https://pypi.python.org/pypi/SpeechRecognition/
+
+2.https://azure.microsoft.com/en-us/services/cognitive-services/speech/
+
+3.https://cloud.google.com/speech/
+
+4.https://cmusphinx.github.io/wiki/
+
+TIMELINE :
+
+   2nd week                : Installing Ubuntu 14.04 and learning python basics.
+
+   3rd and 4th week   :Working with related applications for project.
+
+   5th and 6th week   : Learning about speech recognition and working on it.
+
+  7th and 8th week    : Making the system to convert speech to text.
+
+  9th week                   : Making the system to recognize commands.
+
+  10th  week                : Working with voice recognition.
+
+  11th  and 12th week: Summing up all.
+
+  13th week                 : Getting feedback and reviews.
+
+   
